@@ -1,7 +1,7 @@
 export const Hero=()=>{
     return (
         <div>
-            <h1>Hero</h1>
+            <h1>Hero summit</h1>
           
         </div>
     )
